@@ -20,6 +20,10 @@ Build a pipeline that:
 
 # How to Run
 
+'''pyhon
+python main_arama.py
+'''
+
 '''python 
 pip install -r requirements.txt
 '''
