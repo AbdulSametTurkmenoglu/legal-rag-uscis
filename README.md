@@ -20,9 +20,12 @@ Build a pipeline that:
 
 # How to Run
 '''bash
+
 pip install -r requirements.txt
 python main.py
+
 '''
+
 Make sure to:
 -Replace the Gemini API key in the code.
 -Run ChromeDriver compatible with your Chrome version.
