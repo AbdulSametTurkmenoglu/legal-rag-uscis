@@ -24,13 +24,7 @@ Build a pipeline that:
 python main_arama.py
 '''
 
-'''python 
-pip install -r requirements.txt
-'''
 
-'''python
-python main.py
-'''
 
 Make sure to:
 -Replace the Gemini API key in the code.
