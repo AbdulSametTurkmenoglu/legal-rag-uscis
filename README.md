@@ -19,13 +19,12 @@ Build a pipeline that:
 -Google Generative AI (Gemini) – LLM for answering questions
 
 # How to Run
-'''bash
-
+'''python 
 pip install -r requirements.txt
-python main.py
-
 '''
-
+'''python
+python main.py
+'''
 Make sure to:
 -Replace the Gemini API key in the code.
 -Run ChromeDriver compatible with your Chrome version.
